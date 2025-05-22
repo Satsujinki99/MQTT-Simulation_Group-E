@@ -1,0 +1,7 @@
+{
+    "name": "mqtt-simulator",
+    "version": "1.0.0",
+    "dependencies": {
+      "mqtt": "^4.3.7"
+    }
+  }
